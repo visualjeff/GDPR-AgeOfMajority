@@ -1,0 +1,22 @@
+{
+  "name": "GDPR-AgeOfMajority",
+  "version": "1.0.0",
+  "description": "GDPR age of majority / consent validator",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "gdpr",
+    "age",
+    "majority"
+  ],
+  "author": "visualjeff <visualjeff@icloud.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
