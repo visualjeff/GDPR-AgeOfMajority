@@ -1,7 +1,7 @@
 {
-  "name": "GDPR-AgeOfMajority",
+  "name": "gdpr-age-of-majority",
   "version": "1.0.0",
-  "description": "GDPR age of majority / consent validator",
+  "description": "EU GDPR age of majority / consent validator",
   "main": "index.js",
   "directories": {
     "test": "test"
