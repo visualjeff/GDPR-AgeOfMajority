@@ -11,7 +11,7 @@ Validate whether an individual is an adult according to GDPR (eu rules).
 
 ## Install
 ```
-npm install GDPR-AgeOfMajority --save
+npm install gdpr-age-of-majority --save
 ```
 
 
@@ -20,7 +20,7 @@ npm install GDPR-AgeOfMajority --save
 ```js
 'use strict';
 
-const AgeOfMajority = require('GDPR-AgeOfMajority'); //Import validation function.
+const AgeOfMajority = require('gdpr-age-of-majority'); //Import validation function.
 
 const birthDate = '1967-05-01'; //Sample birth date
 const countryCode = 'IT'; //Italy 
